@@ -5,3 +5,8 @@
 ![Rust_2_pic](https://github.com/user-attachments/assets/c8685452-6eba-4a73-92da-659b5389016d)
 ![scout_1](https://github.com/user-attachments/assets/bdf59177-7c02-40ea-8416-6aec9dd58bb1)
 ![spy_1](https://github.com/user-attachments/assets/fd772c9c-36e9-4f6f-86b9-879c5418b86c)
+![youtube_logo](https://github.com/user-attachments/assets/68aa8cdf-ded6-4d77-967e-8dee3790f52c)
+![discord_logo](https://github.com/user-attachments/assets/11bc965c-ebc5-49b7-a2d6-ac72cad3f5c5)
+![Instagram_logo](https://github.com/user-attachments/assets/77089590-607d-4779-8a81-f23cb1d49849)
+![steam_logo](https://github.com/user-attachments/assets/974ada0c-2432-48ea-a789-c4a9af8243ad)
+![twitter_logo](https://github.com/user-attachments/assets/1d3ea583-1bf4-4a6c-8f0a-75e047039173)
